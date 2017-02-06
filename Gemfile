@@ -16,6 +16,8 @@ gem 'coffee-rails', '~> 4.1.0'
 
 gem 'simple_form'
 
+gem 'devise', '~> 4.2'
+
 gem 'cocoon', '~> 1.2', '>= 1.2.9'
 
 gem 'paperclip', '~> 5.1'
