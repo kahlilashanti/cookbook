@@ -16,9 +16,13 @@ gem 'coffee-rails', '~> 4.1.0'
 
 gem 'simple_form'
 
+gem 'aws-sdk', '~> 2.7', '>= 2.7.3'
+
 gem 'devise', '~> 4.2'
 
 gem 'cocoon', '~> 1.2', '>= 1.2.9'
+
+gem 'rails_12factor', group: :production
 
 gem 'paperclip', '~> 5.1'
 
